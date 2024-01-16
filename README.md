@@ -6,7 +6,7 @@ A showcase of personal skills and projects relevant to my career as a Data Analy
 # Projects
 
 ## Sentiment Analysis of News Channels with YouTube API
-See source code: 
+See [Source Code](https://github.com/osullivan23/Sentiment-Analysis-News-Channels-YouTube-API-Project/blob/main/yt_api_sentiment.ipynb)
 
 ## Overview
 
