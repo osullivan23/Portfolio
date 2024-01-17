@@ -9,9 +9,8 @@ With this amount of data to work with, I realised the importance of selectivity 
 I live in Sydney and have fallen in love with Australia. I am now looking for the right role to begin a vibrant and rewarding career in data!
 # Projects
 
-## Sentiment Analysis of News Channels with YouTube API
-[See source Code](https://github.com/osullivan23/Sentiment-Analysis-News-Channels-YouTube-API-Project/blob/main/yt_api_sentiment.ipynb)
-
+## Sentiment Analysis of News Channels with YouTube API 
+[Source Code](https://github.com/osullivan23/Sentiment-Analysis-News-Channels-YouTube-API-Project/blob/main/yt_api_sentiment.ipynb)
 ### Overview
 
 This project explores the relationship between sentiment and popularity in the YouTube content of a news channel, utilising the YouTube API. The analysis involves collecting up-to-date data from selected YouTube channels, cleaning the data for sentiment analysis, and utilising the Natural Language Toolkit (nltk) in Python for text processing. The ultimate goal is to understand how the intended sentiment of the content aligns with the audience's reception.
@@ -108,7 +107,6 @@ I have been exploring new data visualisation tools beyond Python. I love how int
 
 ## Comparing the Accuracy of Machine Learning Models
 [See Jupyter Notebook](https://github.com/osullivan23/Portfolio/blob/main/heart-attack-knn-dt-lr%20(5).ipynb)
-
 ### Overview
 I set out to investigate the effectiveness of different types of supervised machine learning models when applied to the task of predicting if, based on a patient's vital signs, they are likely to have a heart attack. I trained a K-nearest-neighbors (K-NN), Decision Tree and Logistic Regression model using the same dataset. These three models use very different approaches 
    - **K-NN** is a machine learning algorithm used for classification and regression tasks, it groups k nearest points by distance.
