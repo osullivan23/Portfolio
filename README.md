@@ -2,7 +2,11 @@
 A showcase of personal skills and projects relevant to my career as a Data Analyst 
 
 # About Me
+I have a background in science, this is where I first realised the power that lies in drawing valuable insights from the right data. Paramount to the success of my dissertation was taking 1000s of images of galaxies, applying machine learning pipelines to extract parameters, fitting various models to data distributions, and using stats to assess the plots. 
 
+With this amount of data to work with, I realised the importance of selectivity to reveal clear actionable insights. The project helped to confirm that dark matter behaves in a certain way within galaxies, thanks to careful statistical analysis. It was during this project I realised I wanted to pursue a career in data (analysis, modelling, science), and have gained valuable experience in working with big data, Python, and more recently have found the power of BI tools like Tableau and Power BI. 
+
+I live in Sydney and have fallen in love with Australia. I am now looking for the right role to begin a vibrant and rewarding career in data!
 # Projects
 
 ## Sentiment Analysis of News Channels with YouTube API
@@ -10,7 +14,7 @@ A showcase of personal skills and projects relevant to my career as a Data Analy
 
 ### Overview
 
-This project explores the relationship between sentiment and popularity in the YouTube content of a news channel, utilising the YouTube API. The analysis involves collecting up-to-date data from selected YouTube channels, cleaning the data for sentiment analysis, and utilising Natural Language Toolkit (nltk) in Python for text processing. The ultimate goal is to understand how the intended sentiment of the content aligns with the audience's reception.
+This project explores the relationship between sentiment and popularity in the YouTube content of a news channel, utilising the YouTube API. The analysis involves collecting up-to-date data from selected YouTube channels, cleaning the data for sentiment analysis, and utilising the Natural Language Toolkit (nltk) in Python for text processing. The ultimate goal is to understand how the intended sentiment of the content aligns with the audience's reception.
 
 ### Project Goals
 
@@ -90,17 +94,17 @@ I have been exploring new data visualisation tools beyond Python. I love how int
 🏠 Intrigued by the Impact of Housing Costs, I Decided to Dive into Sydney's Airbnb Market.
 
 ### Insights
-What did I find? The Airbnb landscape in Sydney's Eastern Suburbs is quite fascinating. The data revealed some intriguing insights.
+   - What did I find? The Airbnb landscape in Sydney's Eastern Suburbs is quite fascinating. The data revealed some intriguing insights.
 
-I found that the price per night was most in the north-east of my sample (Vaucluse at the highest latitude is an obvious outlier at over $2000/night average price) as well as the southern shoreline of the harbour. The lowest cost areas are found at lower latitudes with properties averaging close to $200 per night as far south as Maroubra. Being further from the northernmost or easternmost part of the sample reduces the price, due to more considerable distances to the sea.
+   - I found that the price per night was most in the north-east of my sample (Vaucluse at the highest latitude is an obvious outlier at over $2000/night average price) as well as the southern shoreline of the harbour. The lowest cost areas are found at lower latitudes with properties averaging close to $200 per night as far south as Maroubra. Being further from the northernmost or easternmost part of the sample reduces the price, due to more considerable distances to the sea.
 
-From an investor's point of view, you can see the best returns per bedroom occur for larger properties (4+ bedrooms), or single-room properties at the lower end of the budget. 2 or 3-bedroom properties offer smaller returns per room, 5/6/7 beds offer higher returns per room than entire 2-bed properties, presumably this is skewed as they are likely to be more luxurious properties in this range of bedrooms.
+   - From an investor's point of view, you can see the best returns per bedroom occur for larger properties (4+ bedrooms), or single-room properties at the lower end of the budget. 2 or 3-bedroom properties offer smaller returns per room, 5/6/7 beds offer higher returns per room than entire 2-bed properties, presumably this is skewed as they are likely to be more luxurious properties in this range of bedrooms.
 
-We can also see that there is a higher proportion of unoccupied listings in July and August, compared to high occupation in the Australian summer months.
+   - We can also see that there is a higher proportion of unoccupied listings in July and August, compared to high occupation in the Australian summer months.
 
-This project allowed me to investigate the features offered by Tableau and expand my skill set to include a new approach to visualisations - this is something I will value moving forward due to the quality and variety of displays that can be created in real-time. I can see the power this brings when doing face-to-face consultations with clients, simple commands can be used to edit the data included (suburbs, number of rooms, price range etc.), and create new plots within a matter of seconds.
+   - This project allowed me to investigate the features offered by Tableau and expand my skill set to include a new approach to visualisations - this is something I will value moving forward due to the quality and variety of displays that can be created in real-time. I can see the power this brings when doing face-to-face consultations with clients, simple commands can be used to edit the data included (suburbs, number of rooms, price range etc.), and create new plots within a matter of seconds.
 
-It would be interesting to bring in property purchase prices and long-term rental prices, from another source to complete the picture of the market. For this analysis, I chose Airbnb's API providing up-to-date, and relatively clean data, making the process smoother. I found errors in the datasets and dealt with them appropriately to minimise the effect of biases.
+   - It would be interesting to bring in property purchase prices and long-term rental prices, from another source to complete the picture of the market. For this analysis, I chose Airbnb's API providing up-to-date, and relatively clean data, making the process smoother. I found errors in the datasets and dealt with them appropriately to minimise the effect of biases.
 
 ## Comparing the Accuracy of Machine Learning Models
 [See Jupyter Notebook](https://github.com/osullivan23/Portfolio/blob/main/heart-attack-knn-dt-lr%20(5).ipynb)
@@ -131,9 +135,19 @@ I set out to investigate the effectiveness of different types of supervised mach
    - The high accuracy achieved makes this a useful tool for medical staff to take someone's vital signs and know whether the patient is in danger of having a heart attack or not. 
 
 # Skills and Achievements
+   - Statistics (confidence tests, bayesian stats, fitting models)
+   - Numerical skills (integration, differentiation, formulating solutions to complex problems)
+   - Computing software competence: (Python, SQL, Tableau, AI).
+   - Python: Pandas, object-oriented coding, matplotlib and seaborn vis, big-data, simulation.
+   - Filed for and won the Millet award. A £5000 grant was given to three students at the University of Surrey in support of their dissertation project.
+   - Lived in three different countries (England, Canada, Australia).
+   - Won the local rugby league with my home team before the pandemic.
+   - Ran city2surf last year, aiming for the Sydney marathon later this year!
 
-# Certifications 
-
+# Certifications
+   - [Data Analysis with Python](https://www.freecodecamp.org/Charlie_OSullivan), projects: Arithmetic Formatter, Time Calculator, Budget App, Polygon Area Calculator, Probability Calculator [My code for these projects](https://replit.com/@osullivan23).
+   - [Scientific Computing with Python](https://www.freecodecamp.org/Charlie_OSullivan), projects Certifications, Mean-Variance Standard Deviation Calculator, Demographic Data Analyzer, Medical Data Visualizer, Page View Time Series Visualizer, Sea Level Predictor [My code for these projects](https://replit.com/@osullivan23).
+   - [Supervised Machine Learning (Regression and Classification)](https://www.coursera.org/account/accomplishments/verify/CLX5PH7HV688)
 
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed. Contributions are welcome!
