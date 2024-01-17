@@ -137,7 +137,7 @@ I set out to investigate the effectiveness of different types of supervised mach
    - Numerical skills (integration, differentiation, formulating solutions to complex problems)
    - Computing software competence: (Python, SQL, Tableau, AI).
    - Python: Pandas, object-oriented coding, matplotlib and seaborn vis, big-data, simulation.
-   - Filed for and won the Millet award. A £5000 grant was given to three students at the University of Surrey in support of their dissertation project.
+   - Won the Millet award. A £5000 grant was given to three students at the University of Surrey in support of their dissertation project.
    - Lived in three different countries (England, Canada, Australia).
    - Won the local rugby league with my home team before the pandemic.
    - Ran city2surf last year, aiming for the Sydney marathon later this year!
