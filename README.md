@@ -136,6 +136,7 @@ I set out to investigate the effectiveness of different types of supervised mach
    - Statistics (confidence tests, bayesian stats, fitting models)
    - Numerical skills (integration, differentiation, formulating solutions to complex problems)
    - Computing software competence: (Python, SQL, Tableau, AI).
+   - GIS project creating plans for a wind farm in rural NSW ([link](https://github.com/osullivan23/Portfolio/blob/main/Wind_farm_propsal_QGIS.pdf)
    - Python: Pandas, object-oriented coding, matplotlib and seaborn vis, big-data, simulation.
    - Won the Millet award. A £5000 grant was given to three students at the University of Surrey in support of their dissertation project.
    - Lived in three different countries (England, Canada, Australia).
