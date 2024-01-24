@@ -10,7 +10,7 @@ I live in Sydney and have fallen in love with Australia. I am now looking for th
 # Projects
 
 ## Sentiment Analysis of News Channels with YouTube API 
-[Source Code](https://github.com/osullivan23/Sentiment-Analysis-News-Channels-YouTube-API-Project/blob/main/yt_api_sentiment.ipynb)
+[Source Code](https://github.com/osullivan23/Sentiment-Analysis-News-Channels-YouTube-API-Project/blob/main/yt_api_sentiment.ipynb), [Article on Medium](https://medium.com/@charlieosullivan23/analysing-sentiments-in-news-channels-with-youtubes-api-exploring-emotional-trends-9917afff2324)
 ### Overview
 
 This project explores the relationship between sentiment and popularity in the YouTube content of a news channel, utilising the YouTube API. The analysis involves collecting up-to-date data from selected YouTube channels, cleaning the data for sentiment analysis, and utilising the Natural Language Toolkit (nltk) in Python for text processing. The ultimate goal is to understand how the intended sentiment of the content aligns with the audience's reception.
