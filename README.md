@@ -87,7 +87,7 @@ This project explores the relationship between sentiment and popularity in the Y
 - O’Reilly Media Inc. for the book "Natural Language Processing with Python" by Steven Bird, Edward Loper, Ewan Klein.
 
 ## Analysing Sydney's AirBnB Market, Visualisation in Tableau
-[See dashboard](https://github.com/osullivan23/Portfolio/blob/main/dashboard_AirBnB.png)
+[See dashboard](https://public.tableau.com/app/profile/charlie.o.sullivan/viz/AirBnB_sydney_market/SydneyAirbnbMarketDash?publish=yes)
 I have been exploring new data visualisation tools beyond Python. I love how interactive the dashboards are in Tableau allowing you to constrain data samples and edit outputs in real time. I see the advantages of this in presenting to a client and having the capability to tailor plots to their evolving needs. 
 
 🏠 Intrigued by the Impact of Housing Costs, I Decided to Dive into Sydney's Airbnb Market.
